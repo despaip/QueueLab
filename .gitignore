@@ -1,0 +1,2 @@
+# бинарник из go build -o server ./cmd/app
+/server

@@ -1,0 +1,9 @@
+# В контекст сборки — только то, что нужно для go build
+.git
+.gitignore
+.dockerignore
+Dockerfile
+docs
+scripts
+*.md
+server
